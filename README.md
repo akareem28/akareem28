@@ -19,11 +19,11 @@ Tcl Scripts.
 
 **Experience in other softwares**
 
-LateX
-MS Office
-Origin
-Zotero
-XMGRACE
+LateX,
+MS Office,
+Origin,
+Zotero,
+XMGRACE.
 
 s 
 - 📫@akareem28@gmail.com
