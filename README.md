@@ -1,6 +1,27 @@
-- 👋 Hi, I’m Abdul Kareem U
+- 👋 Hi, I’m Abdulkareem U
 
-- 🌱 I’m currently learning python
+- 🌱 I’m a Doctoral candidate in Physics, with my Ph.D. thesis focused on studying the complexity of hydrogen-bonded binary liquids using molecular simulation and topological analysis.
+
+Software Skills Includes
+Molecular Dynamics Simulation
+Liquid-state modeling
+Solid-liquid interface simulations
+Contact angle studies
+PACKMOL
+GAUSSVIEW
+GROMACS
+LAMMPS
+VMD
+Quantum mechanical calculation
+GAUSSIAN Software
+Python 3.7
+Fortran
+MS Office
+Origin
+Zotero
+XMGRACE
+
+s 
 - 📫@akareem28@gmail.com
 
 <!---
