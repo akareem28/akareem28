@@ -2,20 +2,24 @@
 
 - 🌱 I’m a Doctoral candidate in Physics, with my Ph.D. thesis focused on studying the complexity of hydrogen-bonded binary liquids using molecular simulation and topological analysis.
 
-Software Skills Includes
-Molecular Dynamics Simulation
-Liquid-state modeling
-Solid-liquid interface simulations
-Contact angle studies
-PACKMOL
-GAUSSVIEW
-GROMACS
-LAMMPS
-VMD
-Quantum mechanical calculation
-GAUSSIAN Software
-Python 3.7
-Fortran
+**Hands-on experience in Software like**
+PACKMOL,
+GAUSSVIEW,
+GROMACS,
+LAMMPS,
+CP2K,
+VMD,
+GAUSSIAN Software.
+
+**Experiance in programming languages**
+
+Python 3.7,
+Fortran,
+Tcl Scripts.
+
+**Experience in other softwares**
+
+LateX
 MS Office
 Origin
 Zotero
