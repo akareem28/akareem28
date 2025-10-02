@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Abdulkareem U
+- Currently Postdoctoral Fellow in IITB, Mumbai. Working on Modelling of porous materials for ANG application using GCMC simulations.
 
-- 🌱 I’m a Doctoral candidate in Physics, with my Ph.D. thesis focused on studying the complexity of hydrogen-bonded binary liquids using molecular simulation and topological analysis.
+- 🌱 Ph.D in Physics, with my Ph.D. thesis focused on studying the complexity of hydrogen-bonded binary liquids using molecular simulation and topological analysis.
 
 **Hands-on experience in Software like**
 PACKMOL,
 GAUSSVIEW,
 GROMACS,
 LAMMPS,
-CP2K,
 VMD,
 GAUSSIAN Software.
 
